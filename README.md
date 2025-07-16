@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JavCosilionDev/JavCosilionDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +29,6 @@ Always learning, always improving.
 💼 Worked on both educational and business projects, building ERPs, academic systems, and tailored web solutions.  
 📊 I apply agile methodologies (SCRUM) and software architecture patterns like MVC to build scalable and maintainable applications.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JavierCosilion&theme=highcontrast&hide_border=true)](#)
-
 ---
 
 ## 🚀 Technologies I Use
@@ -61,8 +57,6 @@ Always learning, always improving.
 
 [![Email](https://img.shields.io/badge/Email-javiercosilion@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javiercosilion@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JavierCosilion-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javiercosilion)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com) <!-- Replace with your real portfolio -->
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
 
 ---
 
