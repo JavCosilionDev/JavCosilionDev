@@ -34,7 +34,7 @@ Always learning, always improving.
 ## 🚀 Technologies I Use
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,laravel,django,python,jquery,git,github,postman,vscode,figma,linux,windows,photoshop" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,php,mysql,laravel,django,python,jquery,git,github,postman,vscode,figma,linux,windows,photoshop" height="40" />
 </div>
 
 ---
